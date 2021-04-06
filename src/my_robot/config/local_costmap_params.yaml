@@ -1,0 +1,12 @@
+local_costmap:
+   global_frame: odom
+   robot_base_frame: robot_footprint
+   update_frequency: 5.0
+   width: 100
+   height: 100.0
+   resolution: 0.05
+   static_map: false
+   rolling_window: true
+
+plugins:
+   - {name: obstacle_layer,            type: "costmap_2d::ObstacleLayer"}

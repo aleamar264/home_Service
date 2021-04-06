@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/media/aleamar264/Varios/Maestria/Maestria/Curso/Software_Engineer_Robotics/project_final/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/media/aleamar264/Varios/Maestria/Maestria/Curso/Software_Engineer_Robotics/project_final/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
